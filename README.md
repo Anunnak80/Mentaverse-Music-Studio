@@ -14,7 +14,6 @@ This idea came from my i.r.l. job, over at https://www.hvbrecords.nl .
 We guide people with mental problems like: light autism, psychoses, split personalities, army veterans, people who suffer from substance abuse, ex-convicts, etc etc, how to write, create, record, mix and promote their own music. This way we help them to escape from their daily sorrows and feel more confident.
 
 Music has the power to prevent people from suicide!
-That's why, 20% from the amount raised, will be donated to https://jedfoundation.org/
 
 I am also the founder of Mentaverse.
 
