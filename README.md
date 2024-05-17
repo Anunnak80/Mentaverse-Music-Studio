@@ -5,7 +5,7 @@ Interactive, online studio connecting beat producers, engineers and artists, in 
 https://www.youtube.com/watch?v=wXPW3cl358g 
 
 
-Introduction
+*Introduction*
 
 My name is Vlad, I’m 43 years, studied SAE in Rotterdam, and graduated as Audio Engineer.
 Since then, I’m running my own recording / mixing studio for at least 20 years now, in The Netherlands. My idea is to build a virtual, interactive, online music studio, so everyone worldwide can create music together.
@@ -38,7 +38,7 @@ We got the piece of land for free, but we still need to build everything on it.
 
  
 
-The Plan
+*The Plan*
 
 We need roughly 16,000 usd to hire coders, developers and designers to build our virtual building/compound, with a fully detailed and smoothly working lobby (forum), studio and performance stage inside.
 The group of mental clients, that I work with in real life, amaze me every time, how musical and talented they are, and it gives me hope to see them shine and revive with happiness, the moment they start playing or singing. It inspired me, to create this safe haven of music making.
@@ -64,7 +64,7 @@ This amount is just to launch it, of course, and we will need way more eventuall
  
 
 
-The Impact
+*The Impact*
 
 As more and more people struggle with mental issues nowadays, music can be a successful therapy, because when we make music, we use mainly the right (creative) side of our brain, instead of our left (rational) part, where all mental problems are usually stored.
 
@@ -83,16 +83,16 @@ With your help we can get this done properly.
 
  
 
-Risks and Challenges
+*Risks and Challenges*
 
 Mentaverse is connected with many very talented developers and coders, so building this studio will only be a matter of time and money. Where it gets harder is, to eventually make millions of users be active in there, on a daily basis. Only then, advertisers, and sponsors will be interested to join financially.
 
 But as I worked for a few door-to-door sales companies and as an account manager for some international investment companies in my younger years, I know how to add more excitement and action, by promoting it inside our community and to new investors. Besides this, I am also very confident that Income Island will attract many users, as they are already a big company, with many other established companies building in there.
 Another way to attract more users, is to collaborate with studio brands and do giveaways together, with for example, free plugins and other audio gear, from well known music companies. And all the song/remix contests and free workshops will also attract new users.
 
-The screenshots you see, are showing how we are building the prototype of our virtual studio in Unity.
+*The screenshots you see, are showing how we are building the prototype of our virtual studio in Unity.
 Of course this will just be a sketch/quick draw, to make our idea and pitch, more visual.
-The final metaverse shell, will be built by the professioinal development team, from Income Island.
+The final metaverse shell, will be built by the professioinal development team, from Income Island.*
 
-For the recording & production hub/platform, we will need to hire devs, that can launch it as browser as well as phone app.
-We also need server and cloud storage for all the audio files, uploaded or recorded by the end-users and for all the software plugins that need to run smoothly, in the studio as well as in the band room.
+*For the recording & production hub/platform, we will need to hire devs, that can launch it as browser as well as phone app.
+We also need server and cloud storage for all the audio files, uploaded or recorded by the end-users and for all the software plugins that need to run smoothly, in the studio as well as in the band room.*
