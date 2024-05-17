@@ -94,5 +94,5 @@ The screenshots you see, are showing how we are building the prototype of our vi
 Of course this will just be a sketch/quick draw, to make our idea and pitch, more visual.
 The final metaverse shell, will be built by the professioinal development team, from Income Island.
 
-For the recording hub/platform, we will need to hire devs, that can launch it as browser as well as phone app.
+For the recording & production hub/platform, we will need to hire devs, that can launch it as browser as well as phone app.
 We also need server and cloud storage for all the audio files, uploaded or recorded by the end-users and for all the software plugins that need to run smoothly, in the studio as well as in the band room.
