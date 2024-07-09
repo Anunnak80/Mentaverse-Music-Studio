@@ -25,12 +25,8 @@ We also believe that we, humans, are wearing the universe inside ourselves.
  
 
 
-https://incomeisland.org is one of Mentaverse’s partner projects. They are a photo realistic metaverse platform, that give brands the opportunity to run their businesses in there.
-When i told them about this idea of mine, they kindly donated us a very nice, piece of land in their metaverse, for free!
 
-What I would like to build in there, is a virtual online music-production studio, that gives everyone access, to join and create songs, together, from wherever they are at that moment and without needing to own expensive studio software.
-
-We got the piece of land for free, but we still need to build everything on it.
+What I would like to build, is a virtual online music-production studio, that gives everyone access, to join and create songs, together, from wherever they are at that moment and without needing to own expensive studio software.
 
 
 
