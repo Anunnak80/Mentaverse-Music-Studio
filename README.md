@@ -79,6 +79,14 @@ We have established a very loyal community on discord and twitter, who are very 
 Our goal is to eliminate mental problems as much as possible, worldwide, by using the power of music creation.
 
 With your help we can get this done properly.
+
+
+
+Here you can see our virtual world prototype:
+https://github.com/Anunnak80/UnityProjectStudio 
+
+And here we are working on the app/browser prototype:
+https://app.buzzy.buzz/app/c90c0bd74f81203292d1d27e/be360e5c4a14bdf88a1d2a48 
  
 
  
