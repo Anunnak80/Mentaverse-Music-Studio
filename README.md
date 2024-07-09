@@ -31,7 +31,7 @@ What I would like to build, is a virtual online music-production studio, that gi
 
 
  
-
+---------
  
 
 *The Plan*
@@ -55,7 +55,8 @@ We will be able to offer advertising, product placement and sponsoring by big mu
 
 
 
- 
+
+--------- 
 
 
 *The Impact*
@@ -78,6 +79,7 @@ And here we are working on the app/browser prototype:
 https://app.buzzy.buzz/app/c90c0bd74f81203292d1d27e/be360e5c4a14bdf88a1d2a48 
  
 
+---------
  
 
 *Risks and Challenges*
@@ -86,6 +88,11 @@ Mentaverse is connected with many very talented developers and coders, so buildi
 
 But as I worked for a few door-to-door sales companies and as an account manager for some international investment companies in my younger years, I know how to add more excitement and action, by promoting it inside our community and to new investors. Besides this, I am also very confident that Income Island will attract many users, as they are already a big company, with many other established companies building in there.
 Another way to attract more users, is to collaborate with studio brands and do giveaways together, with for example, free plugins and other audio gear, from well known music companies. And all the song/remix contests and free workshops will also attract new users.
+
+
+
+---------
+
 
 *The screenshots you see, are showing how we are building the prototype of our virtual studio in Unity.
 Of course this will just be a sketch/quick draw, to make our idea and pitch, more visual.
