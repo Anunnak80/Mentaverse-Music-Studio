@@ -106,6 +106,7 @@ https://x.com/mentaversenft/status/1863708065436143990
 
 This is a sketch of the app part we did last year:
 https://app.buzzy.buzz/app/c90c0bd74f81203292d1d27e/be360e5c4a14bdf88a1d2a48 
+
 Real prototype will look totally different and is being written from scratch, as we speak.
  
 
