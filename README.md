@@ -42,7 +42,7 @@ Imagine walking around the metaverse with your own avatar, walking inside a buil
 Users will be able to upload their songs or start new songs from scratch. Also will users be able to apply changes to the seperate sounds/stems like: add, improve, edit, delete and re-arrange.
 All this from their own computer, at their comfortable home.
 
-The lobby will be a forum for beat-producers, engineers, instrument players and vocal artists, to offer their services to each other, or do collabs. And on the big screen we will shwcase songs, interviews and tutorials.
+The lobby will be a forum for beat-producers, engineers, instrument players and vocal artists, to offer their services to each other, or do collabs. And on the big screen we will showcase songs, interviews and tutorials.
 If all goes well, there will also be a performance stage, for all the artists to perform their songs, and promote their brand. Users can also charge entrance fee's for their concerts, to fund their musical journey and buy themselves better audio gear for example.
 This virtual studio will even attract big and established artists, because it is a way faster, and more intuitive workflow, then e-mailing stems back and forth. Plus this way you can really meet and vibe in the studio, together with your co-artist(s), mixing engineer and/or beat-producer from other sides of the world.
 
@@ -68,7 +68,7 @@ We will launch our $MVC token soon and we are also developing our own resource t
 Holders will be able to add the virtual studio on their Planets, in combination with a Star NFT.
 
 
-Here some more details about the Planet and Star NFT's:
+*Here some more details about the Planet and Star NFT's:*
 
 The remaining Planets that we burned earlier last year, came back as Stars! 🔥 💫 
 We went for a totally different art style as we used for the Planets, because in real life stars are also very different from planets.
