@@ -81,6 +81,11 @@ This also means that every Planet/Star pair will unlock the option to add a virt
 
 In time, after we gathered more funds from grant givers, sponsors, advertisement and product placement, all studio holders will be able to make their studio available for the public and start earning SOL or $MVC everytime their studio is being used!
 
+For more inf about the $MVC you can read our whitepaper here:
+
+https://the-mentaverse.gitbook.io/mentaverse-coin
+
+
 *As you may have seen, some Star NFT's have the "extra gear" trait...*
 
 This could vary from vocal effects, synthesizer soundbanks, drum samples & loops, guitar sounds & amps, mixing effects and mastering effects!
